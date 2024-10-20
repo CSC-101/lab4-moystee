@@ -9,6 +9,7 @@ class Point:
     def __init__(self, x: float, y: float):
         self.x = x
         self.y = y
+        # point1 = Point(2.0, 2.0)
 
     #########
     #  You can ignore what follows for now. These are to aid in
